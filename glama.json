@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "Cruise Finder Tool",
+  "description": "A powerful tool that assists users in finding the best cruises based on their preferences and requirements."
+}
